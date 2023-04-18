@@ -1,0 +1,1297 @@
+[2023-04-14 03:00:01,455] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 03:00:01,455] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 03:00:02,230] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 03:00:02,230] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 03:01:29,680] Attacker IP: 192.168.56.104 |  Command: USER | Input: user8
+[2023-04-14 03:01:29,680] Attacker IP: 192.168.56.104 |  Command: USER | Input: user8
+[2023-04-14 03:01:32,674] Attacker IP: 192.168.56.104 |  Command: PASS | Input: pass7
+[2023-04-14 03:01:32,674] Attacker IP: 192.168.56.104 |  Command: PASS | Input: pass7
+[2023-04-14 03:01:32,675] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 03:01:32,675] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 03:01:32,675] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 03:01:32,675] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 04:25:25,592] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 04:25:25,592] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 04:25:27,472] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 04:25:27,472] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:03:13,418] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:03:13,418] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:03:15,420] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:03:15,420] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:03:15,421] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:03:15,421] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:03:15,421] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:03:15,421] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:03:32,610] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:03:32,610] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:03:39,006] Attacker IP: 192.168.56.104 |  Command: USER | Input: a
+[2023-04-14 05:03:39,006] Attacker IP: 192.168.56.104 |  Command: USER | Input: a
+[2023-04-14 05:03:39,006] Attacker IP: 192.168.56.104 |  Command: USER | Input: a
+[2023-04-14 05:08:45,775] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:08:45,775] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:08:45,775] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:08:48,980] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:08:48,980] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:08:48,980] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:08:48,980] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:08:49,687] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:08:49,687] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:08:49,687] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:08:49,687] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:08:49,688] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:11:18,707] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:11:18,708] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:11:18,708] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:11:18,708] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:11:18,708] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:12:36,162] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:12:36,162] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:12:36,162] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:12:36,162] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:14:28,040] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:14:28,040] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:14:28,847] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:14:28,847] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:14:28,848] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:14:28,848] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:14:28,848] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:14:28,848] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:14:30,104] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:14:30,104] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:14:30,105] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:14:30,105] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:14:30,105] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:14:30,105] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:16:47,026] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:16:47,026] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:16:50,138] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:16:50,138] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:16:50,138] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:16:50,864] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:17:00,360] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 05:17:00,360] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 05:17:00,360] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 05:19:44,215] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 05:19:44,215] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 05:19:44,215] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 05:24:24,524] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:24:24,524] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:24:24,524] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:24:24,525] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:24:24,525] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:24:24,525] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:24:24,525] Attacker IP: 192.168.56.104 |  Command: STOR | Input: test_file.txt
+[2023-04-14 05:24:24,525] Attacker IP: 192.168.56.104 |  Command: STOR | Input: test_file.txt
+[2023-04-14 05:24:24,525] Attacker IP: 192.168.56.104 |  Command: STOR | Input: test_file.txt
+[2023-04-14 05:34:37,729] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:34:37,729] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:34:37,729] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:34:47,130] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:34:47,130] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:34:47,130] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:34:47,130] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:34:47,761] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:38:41,283] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:38:49,584] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 05:38:49,584] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 05:38:49,584] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 05:38:49,584] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:38:50,415] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:39:09,076] Attacker IP: 192.168.56.104 |  Command: SIZE | Input: client_list.txt
+[2023-04-14 05:39:09,076] Attacker IP: 192.168.56.104 |  Command: SIZE | Input: client_list.txt
+[2023-04-14 05:39:09,076] Attacker IP: 192.168.56.104 |  Command: SIZE | Input: client_list.txt
+[2023-04-14 05:39:09,076] Attacker IP: 192.168.56.104 |  Command: SIZE | Input: client_list.txt
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: RETR | Input: client_list.txt
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: RETR | Input: client_list.txt
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: RETR | Input: client_list.txt
+[2023-04-14 05:39:09,077] Attacker IP: 192.168.56.104 |  Command: RETR | Input: client_list.txt
+[2023-04-14 05:39:09,118] Attacker IP: 192.168.56.104 |  Command: MDTM | Input: client_list.txt
+[2023-04-14 05:39:09,118] Attacker IP: 192.168.56.104 |  Command: MDTM | Input: client_list.txt
+[2023-04-14 05:39:09,118] Attacker IP: 192.168.56.104 |  Command: MDTM | Input: client_list.txt
+[2023-04-14 05:39:09,118] Attacker IP: 192.168.56.104 |  Command: MDTM | Input: client_list.txt
+[2023-04-14 05:48:14,089] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:48:14,089] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:48:14,089] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:48:14,089] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 05:51:58,576] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:51:58,576] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:51:58,576] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:51:58,576] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:51:58,576] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 05:51:59,302] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:51:59,302] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:51:59,302] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:51:59,302] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:51:59,302] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:51:59,303] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 05:54:41,157] Attacker IP: 192.168.56.104 |  Command: MKD | Input: test
+[2023-04-14 05:54:41,157] Attacker IP: 192.168.56.104 |  Command: MKD | Input: test
+[2023-04-14 05:54:41,157] Attacker IP: 192.168.56.104 |  Command: MKD | Input: test
+[2023-04-14 05:54:41,157] Attacker IP: 192.168.56.104 |  Command: MKD | Input: test
+[2023-04-14 05:54:41,157] Attacker IP: 192.168.56.104 |  Command: MKD | Input: test
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:56:15,661] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 05:56:15,662] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:56:15,662] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:56:15,662] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:56:15,662] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 05:56:15,662] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 06:01:19,959] Attacker IP: 192.168.56.104 |  Command: RMD | Input: test
+[2023-04-14 06:01:19,959] Attacker IP: 192.168.56.104 |  Command: RMD | Input: test
+[2023-04-14 06:01:19,959] Attacker IP: 192.168.56.104 |  Command: RMD | Input: test
+[2023-04-14 06:01:19,959] Attacker IP: 192.168.56.104 |  Command: RMD | Input: test
+[2023-04-14 06:01:19,959] Attacker IP: 192.168.56.104 |  Command: RMD | Input: test
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 06:01:22,921] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:11:22,455] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:11:22,455] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:11:22,455] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:11:22,455] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:11:22,455] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:14:16,430] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:14:16,430] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:14:16,430] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:14:16,430] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:14:16,430] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:14:16,430] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:14:17,123] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:14:17,124] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:14:17,124] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:14:17,124] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:14:17,124] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:14:17,124] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:14:17,124] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:11,280] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../
+[2023-04-14 07:20:11,280] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../
+[2023-04-14 07:20:11,280] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../
+[2023-04-14 07:20:11,280] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../
+[2023-04-14 07:20:11,280] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../
+[2023-04-14 07:20:11,280] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:12,852] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:12,853] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:12,853] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:12,853] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:12,853] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:12,853] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:12,853] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:22,737] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:22,737] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:22,737] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:22,737] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:22,737] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:22,737] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:25,812] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:25,812] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:25,812] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:25,812] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:25,812] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:25,812] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:25,812] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:26,491] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:26,491] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:26,491] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:26,491] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:26,491] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:26,491] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:26,491] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:26,492] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:30,338] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:20:30,338] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:20:30,338] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:20:30,338] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:20:30,338] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:20:30,338] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:20:30,338] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:31,783] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:20:31,784] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:31,784] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:31,784] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:31,784] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:31,784] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:31,784] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:31,784] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:20:33,986] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:33,986] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:33,986] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:33,986] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:33,986] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:33,986] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:33,986] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:37,895] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,562] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:20:38,563] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:41,471] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /../../../
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,408] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:43,409] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:50,822] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:52,616] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:54,914] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:21:59,247] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,026] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:00,027] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:03,727] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,480] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:05,481] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:15,238] Attacker IP: 192.168.56.104 |  Command: CWD | Input: fake
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,721] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:17,722] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:20,506] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,053] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:22,054] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:27,369] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,690] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:28,691] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:31,457] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,823] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:32,824] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:36,417] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:22:47,143] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:41,412] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:56,656] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:24:58,011] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:09,635] Attacker IP: 192.168.56.104 |  Command: CWD | Input: reece
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,615] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:10,616] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:21,554] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:26,150] Attacker IP: 192.168.56.104 |  Command: RMD | Input: ah
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:25:29,492] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:53:02,842] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:53:02,842] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:53:05,765] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:53:05,765] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:53:05,766] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:53:05,766] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:53:05,766] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:53:05,766] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:53:09,633] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:53:09,633] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 07:53:11,793] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:53:11,793] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:53:18,230] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:53:18,230] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:55:00,067] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:55:00,067] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:55:00,067] Attacker IP: 192.168.56.104 |  Command: USER | Input: reece
+[2023-04-14 07:55:01,991] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:55:01,991] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:55:01,991] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 07:55:05,344] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:55:05,344] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:55:05,344] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:55:05,344] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:55:06,366] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 07:55:13,235] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:13,235] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:13,235] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:13,235] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:55:14,579] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:55:20,606] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:20,606] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:20,606] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:20,606] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../../
+[2023-04-14 07:55:21,811] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:55:21,811] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:55:21,811] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:55:21,811] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 07:55:23,559] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:23,559] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:23,559] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:23,559] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 07:55:23,560] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:55:23,560] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:55:23,560] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 07:55:23,560] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:01:19,943] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:01:19,943] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:01:19,943] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:01:19,943] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:01:23,572] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:01:23,572] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:01:23,572] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:01:23,572] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:01:23,572] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:01:24,307] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:01:29,300] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 08:01:29,300] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 08:01:29,300] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 08:01:29,300] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 08:01:29,300] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 08:06:45,292] Attacker IP: 192.168.56.104 |  Command: CWD | Input: exit
+[2023-04-14 08:06:45,292] Attacker IP: 192.168.56.104 |  Command: CWD | Input: exit
+[2023-04-14 08:06:45,292] Attacker IP: 192.168.56.104 |  Command: CWD | Input: exit
+[2023-04-14 08:06:45,292] Attacker IP: 192.168.56.104 |  Command: CWD | Input: exit
+[2023-04-14 08:06:45,292] Attacker IP: 192.168.56.104 |  Command: CWD | Input: exit
+[2023-04-14 08:06:48,491] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:06:48,491] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:06:48,491] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:06:48,491] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:06:48,491] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:06:51,500] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:06:51,500] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:06:51,500] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:06:51,500] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:06:51,500] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:06:51,500] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:06:52,474] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:06:58,128] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:06:58,128] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:06:58,128] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:06:58,128] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:06:58,128] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:06:58,128] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:00,958] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:00,959] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:00,959] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:00,959] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:00,959] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:00,959] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:00,959] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:43,062] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 08:07:43,062] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 08:07:43,062] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 08:07:43,062] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 08:07:43,062] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 08:07:43,062] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:44,521] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:47,995] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:47,995] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:47,995] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:47,995] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:47,995] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:47,995] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:49,305] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:54,905] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:54,905] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:54,905] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:54,905] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:54,905] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:54,905] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:56,816] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:07:59,948] Attacker IP: 192.168.56.104 |  Command: CWD | Input: root
+[2023-04-14 08:07:59,948] Attacker IP: 192.168.56.104 |  Command: CWD | Input: root
+[2023-04-14 08:07:59,948] Attacker IP: 192.168.56.104 |  Command: CWD | Input: root
+[2023-04-14 08:07:59,948] Attacker IP: 192.168.56.104 |  Command: CWD | Input: root
+[2023-04-14 08:07:59,948] Attacker IP: 192.168.56.104 |  Command: CWD | Input: root
+[2023-04-14 08:07:59,948] Attacker IP: 192.168.56.104 |  Command: CWD | Input: root
+[2023-04-14 08:08:00,975] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:08:00,975] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:08:00,975] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:08:00,975] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:08:00,975] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:08:00,975] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:08:00,976] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:08:00,976] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:08:00,976] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:08:00,976] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:08:00,976] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:08:00,976] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:08:03,584] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:08:03,584] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:08:03,584] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:08:03,584] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:08:03,584] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:08:03,584] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:08:06,566] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:08:06,566] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:08:06,566] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:08:06,566] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:08:06,566] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:08:06,566] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:08:06,566] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:08:07,355] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:08:07,355] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:08:07,355] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:08:07,355] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:08:07,355] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:08:07,355] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:08:07,355] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:08:07,356] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:08:10,054] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:08:10,054] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:08:10,054] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:08:10,054] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:08:10,054] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:08:10,054] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:08:10,054] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:10:15,570] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:10:15,570] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:10:15,570] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:10:15,570] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:10:15,570] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:10:15,570] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:10:15,570] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:13:41,153] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:13:41,153] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:13:42,083] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:13:42,083] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:13:42,084] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:13:42,084] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:13:42,084] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:13:42,084] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:13:58,609] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /root
+[2023-04-14 08:13:58,609] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /root
+[2023-04-14 08:15:28,256] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:15:28,256] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:15:29,152] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:15:29,152] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:15:29,153] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:15:29,153] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:15:29,153] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:15:29,153] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:15:31,743] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /root
+[2023-04-14 08:15:31,743] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /root
+[2023-04-14 08:15:33,433] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:15:33,433] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 08:15:33,434] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:15:33,434] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 08:15:33,434] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:15:33,434] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 08:15:54,683] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:15:54,683] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 08:18:48,051] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:18:48,051] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 08:18:49,024] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:18:49,024] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 08:18:49,025] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:18:49,025] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 08:18:49,025] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:18:49,025] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 08:18:57,187] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /root
+[2023-04-14 08:18:57,187] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /root
+[2023-04-14 08:19:00,544] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 08:19:00,544] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /
+[2023-04-14 09:22:01,075] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:22:01,075] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:23:33,350] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:23:33,350] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:23:34,701] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:23:34,701] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:23:34,701] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:23:34,701] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:23:34,701] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:23:34,701] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:24:38,993] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:24:38,993] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:24:38,993] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:24:38,993] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:24:38,994] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:24:38,994] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:24:42,604] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 09:24:42,604] Attacker IP: 192.168.56.104 |  Command: CWD | Input: documents
+[2023-04-14 09:25:11,269] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:25:11,269] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:25:11,269] Attacker IP: 192.168.56.104 |  Command: STOR | Input: word.exe
+[2023-04-14 09:25:11,269] Attacker IP: 192.168.56.104 |  Command: STOR | Input: word.exe
+[2023-04-14 09:48:21,202] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:48:21,202] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:48:24,176] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:48:24,176] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:48:24,176] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:48:25,184] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:48:25,184] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:48:25,184] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:48:25,185] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:48:25,185] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:48:25,185] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:48:25,185] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:48:25,185] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:48:25,185] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:49:07,694] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:49:07,694] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:49:07,694] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:49:07,695] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:49:07,695] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:49:07,695] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:49:07,695] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /
+[2023-04-14 09:49:07,695] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /
+[2023-04-14 09:49:07,695] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /
+[2023-04-14 09:50:58,774] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:50:58,774] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:50:59,571] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:50:59,571] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:50:59,571] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:50:59,571] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:50:59,571] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:50:59,571] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:51:14,412] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 09:51:14,412] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 09:51:15,731] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 09:51:15,731] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 09:51:31,713] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 09:51:31,713] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 09:51:35,212] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 09:51:35,212] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 09:51:38,990] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:51:38,990] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:51:41,468] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:51:41,468] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:51:41,468] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:51:42,165] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:51:43,320] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 09:51:43,320] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 09:51:43,320] Attacker IP: 192.168.56.104 |  Command: PWD | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:51:49,475] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:51:54,441] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 09:51:54,441] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 09:51:54,441] Attacker IP: 192.168.56.104 |  Command: CWD | Input: /home
+[2023-04-14 09:51:55,570] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:51:55,570] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:51:55,570] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:51:55,570] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:51:55,570] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:51:55,570] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:52:13,187] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 09:52:13,187] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 09:52:13,187] Attacker IP: 192.168.56.104 |  Command: CWD | Input: ../
+[2023-04-14 09:52:15,143] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:52:15,143] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:52:15,143] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:52:15,143] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:52:15,143] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:52:15,143] Attacker IP: 192.168.56.104 |  Command: LIST | Input: 
+[2023-04-14 09:52:35,624] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:52:35,624] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:52:35,624] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 09:52:40,995] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:52:40,995] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:52:40,995] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:52:40,995] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:52:43,263] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 09:52:43,264] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:52:43,264] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:52:43,264] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:52:43,264] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:52:58,705] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 09:52:58,706] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /root
+[2023-04-14 09:52:58,706] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /root
+[2023-04-14 09:52:58,706] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /root
+[2023-04-14 09:52:58,706] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /root
+[2023-04-14 10:00:25,124] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 10:00:25,124] Attacker IP: 192.168.56.104 |  Command: USER | Input: admin
+[2023-04-14 10:00:25,824] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 10:00:25,824] Attacker IP: 192.168.56.104 |  Command: PASS | Input: admin
+[2023-04-14 10:00:25,825] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 10:00:25,825] Attacker IP: 192.168.56.104 |  Command: SYST | Input: 
+[2023-04-14 10:00:25,825] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 10:00:25,825] Attacker IP: 192.168.56.104 |  Command: FEAT | Input: 
+[2023-04-14 10:00:38,265] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 10:00:38,265] Attacker IP: 192.168.56.104 |  Command: EPSV | Input: 
+[2023-04-14 10:00:38,266] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 10:00:38,266] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 10:00:38,266] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /root
+[2023-04-14 10:00:38,266] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /root
+[2023-04-14 10:02:26,610] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 10:02:26,610] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 10:02:26,610] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /
+[2023-04-14 10:02:26,610] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /
+[2023-04-14 10:02:40,584] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 10:02:40,584] Attacker IP: 192.168.56.104 |  Command: PASV | Input: 
+[2023-04-14 10:02:40,584] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /ftp
+[2023-04-14 10:02:40,584] Attacker IP: 192.168.56.104 |  Command: STOR | Input: /ftp
+[2023-04-14 11:47:08,715] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 
+[2023-04-14 11:47:08,715] Attacker IP: 192.168.56.104 |  Command: QUIT | Input: 

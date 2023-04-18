@@ -1,0 +1,10 @@
+300: file:///home/reece/Honeypot/honeypotv2/2/__pycache__/
+200: filename content-length last-modified file-type
+201: command_handlers2.cpython-310.pyc 5773 Tue,%2004%20Apr%202023%2019:06:14%20GMT FILE 
+201: config.cpython-310.pyc 2716 Wed,%2005%20Apr%202023%2016:49:35%20GMT FILE 
+201: ftp_alert.cpython-310.pyc 1257 Thu,%2013%20Apr%202023%2019:49:31%20GMT FILE 
+201: ftp_config.cpython-310.pyc 4842 Fri,%2014%20Apr%202023%2001:39:54%20GMT FILE 
+201: ftp_dirgen.cpython-310.pyc 1593 Fri,%2014%20Apr%202023%2001:39:54%20GMT FILE 
+201: ftp_handler.cpython-310.pyc 4634 Fri,%2014%20Apr%202023%2009:00:04%20GMT FILE 
+201: ftp_honeypot2.cpython-310.pyc 5355 Fri,%2014%20Apr%202023%2008:23:12%20GMT FILE 
+201: ftp_logger.cpython-310.pyc 774 Wed,%2005%20Apr%202023%2008:33:02%20GMT FILE 
